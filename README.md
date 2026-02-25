@@ -13,9 +13,9 @@ It is a sofware designed for **monitoring** and **mapping** desktop computers in
 • [Juz](https://www.linkedin.com/in/juz-matthew-ortega-4065192a9/) 
 
 ## Languages and Tools Used:
- ![Static Badge](https://img.shields.io/badge/C--Sharp-903ba8?style=for-the-badge&logo=sharp&logoColor=white)
- ![Static Badge](https://img.shields.io/badge/WINFORMS-0880bc?style=for-the-badge)
- ![Static Badge](https://img.shields.io/badge/ms_sql_server-white?style=for-the-badge&label=%E3%85%A4&labelColor=ff0033)
+ [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23652177.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
+ ![Static Badge](https://img.shields.io/badge/WinForms-0880bc?style=for-the-badge&logo=dotnet)
+ [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)](#)
 
 ## Screenshots
 ### Log-In
