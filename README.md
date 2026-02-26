@@ -16,6 +16,7 @@ It is a sofware designed for **monitoring** and **mapping** desktop computers in
  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23652177.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
  ![Static Badge](https://img.shields.io/badge/WinForms-0880bc?style=for-the-badge&logo=dotnet)
  [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)](#)
+ [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)](#)
 
 ## Screenshots
 ### Log-In
